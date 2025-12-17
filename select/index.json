@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "デーモンダンストーキョー",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-17T13:59:03.751468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デーモンダンストーキョー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_デーモンダンストーキョー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "デーモンダンストーキョー - Demon Dance Tokyo",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_デーモンダンストーキョー_-_Demon_Dance_Tokyo_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "デーモンダンストーキョー - Eve   MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_デーモンダンストーキョー_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デーモンダンストーキョー",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_デーモンダンストーキョー_Eve.txt"
+    }
+  ]
+}
